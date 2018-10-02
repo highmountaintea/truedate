@@ -1,0 +1,22 @@
+{
+  "name": "truedate",
+  "version": "0.1.0",
+  "description": "functional date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highmountaintea/truedate.git"
+  },
+  "author": "highmountaintea",
+  "keywords": [
+    "Date"
+  ],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/highmountaintea/truedate/issues"
+  },
+  "homepage": "https://github.com/highmountaintea/truedate#readme"
+}
